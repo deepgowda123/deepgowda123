@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Deepika H P  
+# 👋 Hi there, I'm Deepika
 
 🎯 **DevOps | Python | AI Enthusiast**  
 💻 Passionate about automating, building, and scaling smart solutions across cloud, AI, and development environments.
@@ -32,4 +32,4 @@ OpenAI Agents SDK, CrewAI, LangGraph, AutoGen, MCP
 ---
 
 ⭐️ *“Code. Learn. Improve. Repeat.”*  
-Made with ❤️ by **Deepika H P**
+Made with ❤️ by **Deepika**
