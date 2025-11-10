@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi there, I'm Deepika H P  
 
-<!--
-**deepgowda123/deepgowda123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **DevOps | Python | AI Enthusiast**  
+💻 Passionate about automating, building, and scaling smart solutions across cloud, AI, and development environments.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🧠 Currently learning **AI** and **Python Development**  
+- 🛠️ Building practical projects — apps and DevOps automation  
+- 🌱 I believe in *“learning by building”* — small steps every day!  
+- 💬 Ask me about: **DevOps, Python, AI**
+
+---
+
+### 🧰 Tech Stack
+
+**💻 Languages:**  
+Python, Java (Basics), Bash, HTML/CSS  
+
+**⚙️ Tools & Technologies:**  
+Git, GitHub, Docker, Kubernetes, AWS, Terraform, Ansible, Linux, LLM, AI  
+
+---
+
+### 🌍 Connect with Me  
+🔗 [LinkedIn](#)  
+🐙 [GitHub](https://github.com/deepgowda123)  
+✉️ [Email](#)
+
+---
+
+⭐️ *“Code. Learn. Improve. Repeat.”*  
+Made with ❤️ by **Deepika H P**
