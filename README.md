@@ -19,14 +19,15 @@
 Python, Java (Basics), Bash, HTML/CSS  
 
 **⚙️ Tools & Technologies:**  
-Git, GitHub, Docker, Kubernetes, AWS, Terraform, Ansible, Linux, LLM, AI  
+Git, GitHub, Docker, Kubernetes, AWS, Terraform, Ansible, Linux,  
+OpenAI Agents SDK, CrewAI, LangGraph, AutoGen, MCP  
 
 ---
 
 ### 🌍 Connect with Me  
 🔗 [LinkedIn](#)  
 🐙 [GitHub](https://github.com/deepgowda123)  
-✉️ [Email](#)
+✉️ [Email](deepikagowda255@gmail.com)
 
 ---
 
