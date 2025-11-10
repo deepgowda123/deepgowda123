@@ -25,7 +25,7 @@ OpenAI Agents SDK, CrewAI, LangGraph, AutoGen, MCP
 ---
 
 ### 🌍 Connect with Me  
-🔗 [LinkedIn](#)  
+🔗 [LinkedIn](www.linkedin.com/in/04deepika)  
 🐙 [GitHub](https://github.com/deepgowda123)  
 ✉️ [Email](deepikagowda255@gmail.com)
 
